@@ -1,3 +1,3 @@
 <h2 align="center"> ━━━━━━  🐾 Kittens Website 🐾  ━━━━━━ </h2>
 
-meoww
+Open for contributions
